@@ -77,8 +77,8 @@ while foreverloop == "loop":
 
     1. Username Lookup
     2. IP pinger
-    3. Phone Lookup
-    4. Scan for open ports on an IP (requires ur own api key read the README)
+    3. Phone Lookup (requires ur own api key read the README)
+    4. Scan for open ports on an IP 
 
     0. exit
     : """)
