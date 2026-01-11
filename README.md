@@ -71,6 +71,10 @@ with your actual API key.
 Example:
 API_KEY = "abcdef1234567890"
 
+# Screenshot
+<img width="906" height="603" alt="2026-01-11_12-37" src="https://github.com/user-attachments/assets/9640a949-c7af-4c7e-a50c-a76a2a4a334b" />
+
+
 # Final Notes
 
 Make sure all dependencies are installed before running the script.
