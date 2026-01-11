@@ -34,7 +34,7 @@ python3 sherlock.py --help
 
 Below is a step-by-step guide to configure the script so everything works correctly on your system.
 
-Setting Up Sherlock
+# Setting Up Sherlock
 
 Open osint.py in any text editor or IDE (VS Code, nano, vim, etc.).
 
@@ -48,7 +48,7 @@ os.chdir("/home/yourusername/tools/sherlock")
 
 ⚠️ Paths are case-sensitive on Linux.
 
-Setting Up Phone Number Lookup (Numverify)
+# Setting Up Phone Number Lookup (Numverify)
 
 Go to https://numverify.com
  and create an account.
