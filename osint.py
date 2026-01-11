@@ -5,7 +5,7 @@ import requests
 def sherlock():
     username = input('username: ')
     
-    os.chdir("/home/whyrot/sherlock")
+    os.chdir("/home/puppy/sherlock")
     os.system(f'python3 sherlock_project {username} --print-found')
     input('\npress enter to return to menu')
     return
@@ -49,7 +49,31 @@ foreverloop = "loop"
 while foreverloop == "loop":
     os.system('clear')
     choice = input("""
-    tarnla osint panel :p
+             
+        whyrot osint panel...
+             
+                ...                            
+             ;::::;                           
+           ;::::; :;                          
+         ;:::::'   :;                         
+        ;:::::;     ;.                        
+       ,:::::'       ;           OOO\        
+       ::::::;       ;          OOOOO\        
+       ;:::::;       ;         OOOOOOOO       
+      ,;::::::;     ;'         / OOOOOOO      
+    ;:::::::::`. ,,,;.        /  / DOOOOOO    
+  .';:::::::::::::::::;,     /  /     DOOOO   
+ ,::::::;::::::;;;;::::;,   /  /        DOOO  
+;`::::::`'::::::;;;::::: ,#/  /          DOOO 
+:`:::::::`;::::::;;::: ;::#  /            DOOO
+::`:::::::`;:::::::: ;::::# /              DOO
+`:`:::::::`;:::::: ;::::::#/               DOO
+ :::`:::::::`;; ;:::::::::##                OO
+ ::::`:::::::`;::::::::;:::#                OO
+ `:::::`::::::::::::;'`:;::#                O 
+  `:::::`::::::::;' /  / `:#                  
+   ::::::`:::::;'  /  /   `#              
+
 
     1. Username Lookup
     2. IP pinger
